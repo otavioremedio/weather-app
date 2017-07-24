@@ -12,4 +12,6 @@ var getUser = (id, callback) => {
 getUser(123, (userObject) => {
     console.log(userObject);
 });
-//maps.googleapis.com/maps/api/geocode/json
+//maps.googleapis.com/maps/api/geocode/json?address=1301 lombard street philadelphia;
+//npm init
+//npm request
